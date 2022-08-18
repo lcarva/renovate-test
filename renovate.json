@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "tekton": {
+  "tekton-bundle": {
     "fileMatch": ["\\.yaml$", "\\.yml$"],
     "pinDigests": true
   }
